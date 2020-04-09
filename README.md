@@ -37,8 +37,8 @@ I also used an I/O Trainer Board V1.1 made by Curious Circuits  (details below).
  * The waving Canadian flag in the video is courtesy of BestAnimations.com: https://bit.ly/2y2tqIm
 
  * Other who have done this in the past but on single buzzers and not as double-line melodies**:
- 1. Stewart C. Russell (2010):  https://youtu.be/2ewbZVwMr_I
- 2. Brian Sullivan (2013):  https://youtu.be/QXssfJiToaw
- 3. Kevin Power (2015):  https://youtu.be/w0dshz-sRtw
+    1. Stewart C. Russell (2010):  https://youtu.be/2ewbZVwMr_I
+    2. Brian Sullivan (2013):  https://youtu.be/QXssfJiToaw
+    3. Kevin Power (2015):  https://youtu.be/w0dshz-sRtw
 
 ** You can check out my single-line melody version of this project on GitHub, https://github.com/rob-soltani/OCanada-ArduinoUnoR3-SingleChannel, and YouTube: https://youtu.be/is9LnPHMvbw.
